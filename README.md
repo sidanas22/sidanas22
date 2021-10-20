@@ -21,7 +21,7 @@
 
 
 <div>  
- <h2 align="left"><a href="https://drive.google.com/drive/folders/1UdzHVnGB8qyaWXuA8ocOt8yKEhTVbEvi?usp=sharing" target="_blank">📑 Resume</a></h2>
+ <h2 align="left"><a href="https://drive.google.com/file/d/1W-t7ljyQ2VTQ_kSVErGVSmimpk01bTMj/view?usp=sharing" target="_blank">📑 Resume</a></h2>
 </div>
 
 
